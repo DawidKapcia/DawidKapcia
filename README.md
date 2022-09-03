@@ -7,4 +7,6 @@ My main passion is mathematics, especially probability, statistics and broadly u
 ## 💡 Skills
 * Python programming
 * R programming basics
+* Basics of Data Science
+* Machine Learning basics
 * C/C++ programming basics
