@@ -10,3 +10,5 @@ My main passion is mathematics, especially probability, statistics and broadly u
 * Basics of Data Science
 * Machine Learning basics
 * C/C++ programming basics
+
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
