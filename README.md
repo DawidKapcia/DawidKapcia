@@ -5,10 +5,12 @@ Hi everyone, I'm Dawid Kapcia. I am a student of Applied Mathematics and Compute
 My main passion is mathematics, especially probability, statistics and broadly understood mathematician applications. Except that I'm so fascinated by programming languages and everything about data. I connect my future career with Data Science and Statistics.
 
 ## 💡 Skills
-* Python programming
-* R programming basics
-* Basics of Data Science
+* Data analysis
+* SQL Programming
+* Python Programming
+* R Programming basics
 * Machine Learning basics
-* C/C++ programming basics
+* Probability & Statistics
+* C/C++ Programming basics
 
 <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
