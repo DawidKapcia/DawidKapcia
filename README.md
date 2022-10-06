@@ -3,4 +3,4 @@ Hi everyone! I am Dawid - a student of Applied Mathematics and Computer Science 
 
 My main passion is mathematics, especially probability, statistics and broadly understood mathematician applications. Except that I am so fascinated by programming languages, artificial intelligence and everything about data. I connect my future career with Data Science and Statistics.
 
-Feel free to check my projects and social media.
+Feel free to check out my projects and social media!
