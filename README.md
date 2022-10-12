@@ -1,5 +1,5 @@
 ## 👋 Introduction
-Hi everyone! 
+Hi! 
 
 I am a student of Applied Mathematics and Computer Science from Cracow, Poland. On my profile you will be able to find projects related with Data Science, Machine Learning, Cryptography and any other mathematician applications. 
 
